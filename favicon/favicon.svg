@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(20.833333333333332,0,0,20.833333333333332,0,0)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><title>7-Book</title><g id="_7-Book" data-name="7-Book"><rect x="16" y="41" width="28" height="2"></rect><path d="M5,42H3V6A6.006,6.006,0,0,1,9,0H44a1,1,0,0,1,1,1V37H43V2H9A4,4,0,0,0,5,6Z"></path><path d="M44,48H9A6,6,0,0,1,9,36H44a1,1,0,0,1,1,1V47A1,1,0,0,1,44,48ZM9,38a4,4,0,0,0,0,8H43V38Z"></path><rect x="9" y="1" width="2" height="36"></rect><path d="M39,12H37V8H17v4H15V7a1,1,0,0,1,1-1H38a1,1,0,0,1,1,1Z"></path><path d="M38,20H16a1,1,0,0,1-1-1V15h2v3H37V15h2v4A1,1,0,0,1,38,20Z"></path><rect x="15" y="14" width="24" height="2"></rect><rect x="15" y="23" width="2" height="2"></rect><rect x="19" y="23" width="2" height="2"></rect><rect x="27" y="23" width="12" height="2"></rect><rect x="12" y="41" width="2" height="2"></rect></g></svg></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1249)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(18.75,0,0,18.75,50,50)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><title>7-Book</title><g id="_7-Book" data-name="7-Book"><rect x="16" y="41" width="28" height="2"></rect><path d="M5,42H3V6A6.006,6.006,0,0,1,9,0H44a1,1,0,0,1,1,1V37H43V2H9A4,4,0,0,0,5,6Z"></path><path d="M44,48H9A6,6,0,0,1,9,36H44a1,1,0,0,1,1,1V47A1,1,0,0,1,44,48ZM9,38a4,4,0,0,0,0,8H43V38Z"></path><rect x="9" y="1" width="2" height="36"></rect><path d="M39,12H37V8H17v4H15V7a1,1,0,0,1,1-1H38a1,1,0,0,1,1,1Z"></path><path d="M38,20H16a1,1,0,0,1-1-1V15h2v3H37V15h2v4A1,1,0,0,1,38,20Z"></path><rect x="15" y="14" width="24" height="2"></rect><rect x="15" y="23" width="2" height="2"></rect><rect x="19" y="23" width="2" height="2"></rect><rect x="27" y="23" width="12" height="2"></rect><rect x="12" y="41" width="2" height="2"></rect></g></svg></svg></g></g><defs><clipPath id="SvgjsClipPath1249"><rect width="1000" height="1000" x="0" y="0" rx="250" ry="250"></rect></clipPath></defs></svg></g></svg>
